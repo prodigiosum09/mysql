@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `chapter6_db`
 --
+CREATE DATABASE IF NOT EXISTS `chapter6_db` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `chapter6_db`;
 
 -- --------------------------------------------------------
 
